@@ -40,10 +40,11 @@ def a_few_more_steps
     puts "Right foot steps right"
     puts "Turn"
     sleep(1)
-
     break
   end
   end
+
+a_few_more_steps
 
 
 
