@@ -81,7 +81,7 @@ how_many_steps
       puts "Right"
       sleep (0.5)
       if steps == 6
-         break
+        puts "break"
     end
   end
   end
